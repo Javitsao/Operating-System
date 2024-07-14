@@ -1,0 +1,8 @@
+
+xv6 kernel is booting
+
+init: starting sh
+$ task5
+run_queue is empty, sleep for 58 ticks
+thread#1 misses a deadline at 28
+$ qemu-system-riscv64: terminating on signal 15 from pid 9385 (/usr/bin/qemu-x86_64)
